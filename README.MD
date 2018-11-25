@@ -2,7 +2,9 @@
 
 ## Requirements
 1. Java 8
-2. Lombok plugin
+
+## Nice to have
+1. Lombok plugin
 
 ## Starting the project
 Using gradle wrapper:
